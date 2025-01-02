@@ -5,8 +5,8 @@ website front end work is done, backend part is in the process.
 =======
 # Backend
 
-issue with- postman, multer 
-Food Delivery app for the restaurant 
+issue facing with the payment integration 
+
 
 this website is still on the process .
  Backend part of this website is not solved.
